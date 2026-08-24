@@ -1,7 +1,7 @@
 let img;
 function preload() {
-  img = loadImage('nightbackground.jpg');
-  zombie = loadImage('pigzombie.png');
+  img = loadImage('konohagakure.jpg');
+  zombie = loadImage('uzumakinaruto.png');
   frameRate(900);
 }
 
