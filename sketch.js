@@ -1,6 +1,6 @@
 let img;
 function preload() {
-  img = loadImage('konohagakure.jpg');
+  img = loadImage('kartunnn.jpg');
   zombie = loadImage('uzumakinaruto.png');
   frameRate(900);
 }
