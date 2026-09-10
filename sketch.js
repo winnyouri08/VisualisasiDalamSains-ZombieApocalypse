@@ -1,7 +1,7 @@
 let img;
 function preload() {
-  img = loadImage('kartunnn.jpg');
-  zombie = loadImage('uzumakinaruto.png');
+  img = loadImage('akatsuki.jpg');
+  zombie = loadImage('itachi chibi.jpg');
   frameRate(900);
 }
 
